@@ -70,7 +70,7 @@
 &kp J      &none         &none         &none         &none         &none         &bootloader                                                             &bootloader             &none      &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &none  &none  &none
 &none      &none         &none         &none         &none         &none         &none        &none      &none             &bt BT_CLR        &none       &rgb_ug RGB_MEFS_CMD 5  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none  &none  &kp SINGLE_QUOTE
 &kp LSHFT  &none         &none         &none         &macro_ver    &none                                 &none             &none                                                 &kp GRAVE  &kp LEFT_BRACE        &kp RIGHT_BRACE        &none  &none  &kp MINUS
-&none      &none         &none         &none         &none                       &kp SPACE    &kp ENTER  &kp LEFT_ALT      &kp LEFT_CONTROL  &bl BL_TOG  &kp BACKSPACE                      &bl BL_INC            &bl BL_DEC             &none  &none  &none
+&kp J      &none         &none         &none         &none                       &kp SPACE    &kp ENTER  &kp LEFT_ALT      &kp LEFT_CONTROL  &bl BL_TOG  &kp BACKSPACE                      &bl BL_INC            &bl BL_DEC             &none  &none  &none
             >;
         };
     };
